@@ -12,5 +12,3 @@ Esta app esta desarrollada con la version 3.0.1 de Flutter en esta se implementa
     shared_preferences: ^2.0.13
     image_picker: ^0.7.5
     image_cropper: ^1.4.0
-
-Se adjunta un directorio llamado apk, dentro se encuentra un archivo release.apk con la aplicación desarrollada para poderla ejecutar en cualquier dispositivo android.
